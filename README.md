@@ -22,3 +22,6 @@ NOTA: El repositorio debe estar creado previamente, ya que, se pueden selecciona
 
 6. Finalmente obtenemos el GitHub con el archivo de Colab. 
 <img width="1884" height="595" alt="Captura de pantalla 2026-04-17 093354" src="https://github.com/user-attachments/assets/9925e075-1eae-4281-94d0-5134ee0b672f" />
+
+
+NOTA: El archivo no se sincroniza automaticamente
